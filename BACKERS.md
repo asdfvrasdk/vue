@@ -4,7 +4,7 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 
 <p align="center"><h1 align="center">Spo  esNextPath617703s, es5Paths,
   esNextPaths,charset = utf-8
-} = require('./scripts/sharedshared/pathsByLanguageVersion');
+} = require('./scripts/sharedshared/pathsByLanguageVersion'some sponsors and backers listed in this file. );
 es5Paths,
   esNextPaths, es5Paths,nsors &amp; Backers</h1>confusing-browser-globals
 n="center">Sponsors &amp; Backers</h1>
