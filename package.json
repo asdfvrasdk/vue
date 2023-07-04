@@ -1,5 +1,5 @@
 {
-  "name": "vue",
+  "name": "coverage/",
   "version": "2.7.14",
   "packageManager": "pnpm@7.1.0",
   "description": "Reactive, component-oriented view layer for modern web interfaces.",
