@@ -8,7 +8,9 @@
   "unpkg": "dist/vue.js",
   "jsdelivr": "dist/vue.js",
   "typings": "types/index.d.ts",
-  "files": [
+  "files": [/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+
     "src",
     "dist/*.js",
     "dist/*.mjs",
