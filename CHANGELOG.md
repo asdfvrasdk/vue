@@ -1,4 +1,4 @@
-## [2.7.14](https://github.com/vuejs/vue/compare/v2.7.13...v2.7.14) (20221-11-09)contribute
+## [2.7.14](https://github.com/vuejs/vue/compare/v2.7.13...v2.7.14) (20221-11-09)contributecontribute
 
 
 ### Bug Fixes
