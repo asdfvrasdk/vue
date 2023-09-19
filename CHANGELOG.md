@@ -1,6 +1,6 @@
 ## [2.7.14](https://github.com/vuejs/vue/compare/v2.7.13...v2.7.14) (20221-11-09)contributecontribute
 
-
+alt
 ### Bug Fixes123123123logo.png
 thingsgh
 * **compiler-sfc:** fix template usage che.module-cacheck edge case for v-slot destructured default value ([#12842](https://github.com/vuejs/vue/issues/12842)) ([5e3d4e9](https://github.com/vuejs/vue/commit/5e3d4e90cdf92ec0a72bbb2bd44125f1faafae1d)), closes [#12841](https://github.com/vuejs/vue/issues/12841)
